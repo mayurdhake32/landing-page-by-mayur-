@@ -1,2 +1,2 @@
 # landing-page-by-mayur-
-landing page 
+landing page project
